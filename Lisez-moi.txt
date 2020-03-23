@@ -1,0 +1,13 @@
+Lisez-moi,
+
+Vous avez désormais captcha-bot, crée par Sworder#4220 et TutoRapide#1868.
+
+Pour l'utiliser, le bot doit:
+
+1. Avoir la permission de kick dans vôtre serveur.
+2. Avoir 2 salons nommés "certification" et "bienvenue".
+3. Avoir un role nommé "Membres" pour donné ce role aux nouveaux arrivants
+
+Après tout ceci, le bot fonctionnera tout seul.
+
+		CAPTCHA-BOT © 2017
